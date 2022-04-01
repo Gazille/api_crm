@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Guillermo",
+      "empresa": "Globant",
+      "email": "guille-eze@hotmail.com",
+      "telefono": "1312421412354",
+      "notas": "wfsfasfga",
+      "id": 1
+    },
+    {
+      "nombre": "Ingra",
+      "empresa": "Endava",
+      "email": "guillermo.gazille@gmail.com",
+      "telefono": "435235235",
+      "notas": "xD1223421",
+      "id": 2
+    }
+  ]
+}
